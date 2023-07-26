@@ -1,0 +1,32 @@
+{
+  "name": "shadesofmidnightbluedarktheme",
+  "publisher": "moondevaa",
+  "displayName": "shades of midnight blue dark theme",
+  "description": "dark theme with attarctive colores ",
+  "version": "0.1.0",
+  "engines": {
+    "vscode": "^1.78.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AaBbdev29/shades-of-midnight-blue-dark-theme"
+  },
+  "icon": "moon.jpg", 
+  "theme": "dark",
+  "license": "SEE LICENSE IN LICENSE.txt",
+  "contributes": {
+    "themes": [
+      {
+        "label": "shades of midnight blue dark theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/shades-of-midnight-blue-dark-theme.json"
+      }
+    ]
+  }
+  ,"scripts": {
+    "deploy": "vsce publish --yarn"
+  }
+}
