@@ -3,7 +3,7 @@
   "publisher": "moondevaa",
   "displayName": "shades of midnight blue dark theme",
   "description": "dark theme with attarctive colores ",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "engines": {
     "vscode": "^1.78.0"
   },
@@ -22,7 +22,7 @@
       {
         "label": "shades of midnight blue dark theme",
         "uiTheme": "vs-dark",
-        "path": "./themes/shades-of-midnight-blue-dark-theme.json"
+        "path": "./themes/shades-of-midnight-blue-dark-theme-color-theme.json"
       }
     ]
   }
