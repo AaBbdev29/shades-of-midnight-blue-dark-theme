@@ -24,12 +24,16 @@ fixed most bugs ..
   </div>
 
 ## Screenshots
+<h3>Codes are from AI</h3>
 <div align="center">
-    <h2>React js</h2>
-    <img src="https://raw.githubusercontent.com/AaBbdev29/shades-of-midnight-blue-dark-theme/main/blue.jpg" alt="Moon in React"/>
+  <h2>Python</h2>
+   <img src="https://raw.githubusercontent.com/AaBbdev29/shades-of-midnight-blue-dark-theme/main/pym.png" alt="Py"/>
 </div>
-
+<div align="center">
+  <h2>Javascript</h2>
+   <img src="https://raw.githubusercontent.com/AaBbdev29/shades-of-midnight-blue-dark-theme/main/js.png" alt="JS"/>
+</div>
 ###########
 
-</div>
+
 
