@@ -778,7 +778,7 @@
       "name": "Tags",
       "scope": "entity.name.tag",
       "settings": {
-        "foreground": "#00e5f5"
+        "foreground": "#00adbb"
       }
     },
     {
@@ -2047,7 +2047,7 @@
     "editorSuggestWidget.border": "#454545",
     "editorSuggestWidget.foreground": "#d4d4d4",
     "editorSuggestWidget.highlightForeground": "#0097fb",
-    "editorSuggestWidget.selectedBackground": "#0e0084",
+    "editorSuggestWidget.selectedBackground": "#164863",
     "editorHoverWidget.foreground": "#cccccc",
     "editorHoverWidget.background": "#252526",
     "editorHoverWidget.border": "#454545",
