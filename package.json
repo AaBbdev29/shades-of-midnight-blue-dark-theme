@@ -3,7 +3,7 @@
   "publisher": "moondevaa",
   "displayName": "shades of midnight blue dark theme",
   "description": "dark theme with attarctive colores ",
-  "version": "0.3.4",
+  "version": "0.3.5",
   "engines": {
     "vscode": "^1.78.0"
   },
@@ -11,8 +11,11 @@
     "Themes"
   ],
   "keywords": [
-    "moon","midnight","navy-blue","dark","dark-blue","shades","cyn","beautiful","attarctive","js"
-  ],
+    "moon","midnight","navy-blue","dark","dark-blue","shades","cyn","beautiful","attarctive","js",
+    "turquoise","sky","tiffany-blue","steel-blue","maya","teal","independence-blue","cornflower","sapphire","azure","yale","space",
+    "royal","fluorescent","ruddy-blue","aero","alice-blue","aqua","arctic","astros","berry-blue","yonder","blue-gray","chelsea-blue",
+    "Denim","dolphin","duck-blue","ice","majorelle-blue","marian-blue","medium","neon","ocean","pacific-blue","pantone","peacock","stone-blue",
+    "warriors-blue"],
   "repository": {
     "type": "git",
     "url": "https://github.com/AaBbdev29/shades-of-midnight-blue-dark-theme"
