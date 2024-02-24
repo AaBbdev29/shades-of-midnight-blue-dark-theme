@@ -3,12 +3,15 @@
   "publisher": "moondevaa",
   "displayName": "shades of midnight blue dark theme",
   "description": "dark theme with attarctive colores ",
-  "version": "0.3.3",
+  "version": "0.3.4",
   "engines": {
     "vscode": "^1.78.0"
   },
   "categories": [
     "Themes"
+  ],
+  "keywords": [
+    "moon","midnight","navy-blue","dark","dark-blue","shades","cyn","beautiful","attarctive","js"
   ],
   "repository": {
     "type": "git",
