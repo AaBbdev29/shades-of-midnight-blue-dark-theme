@@ -3,7 +3,7 @@
   "publisher": "moondevaa",
   "displayName": "shades of midnight blue dark theme",
   "description": "dark theme with attarctive colores ",
-  "version": "0.3.5",
+  "version": "0.3.6",
   "engines": {
     "vscode": "^1.78.0"
   },
@@ -15,7 +15,16 @@
     "turquoise","sky","tiffany-blue","steel-blue","maya","teal","independence-blue","cornflower","sapphire","azure","yale","space",
     "royal","fluorescent","ruddy-blue","aero","alice-blue","aqua","arctic","astros","berry-blue","yonder","blue-gray","chelsea-blue",
     "Denim","dolphin","duck-blue","ice","majorelle-blue","marian-blue","medium","neon","ocean","pacific-blue","pantone","peacock","stone-blue",
-    "warriors-blue"],
+    "warriors-blue","attarctive","zenburn","webstrome","winter","wind","vibe","universe","ultra",
+    "ultimate","ubuntu","linux","turbo","true","false","tomorrow","terminal","syntax","sweet","super","sun","Saturn","style","star","krita",
+    "soft","space","smooth","smile","laught","sky","simple","easy","silver","semantic","seti","sakura","ruby","relax","rainbow","rainglow",
+    "radial","radical","pro","professional","palette","plastic","palennight","pack","orginal","omini","official","obsidian","nice",
+    "nemo","neo","new","folder","nano","modern","minimal","mega","max","material","mangic","low","laser","just","jelly","infinity"
+    ,"indigo","hot","hope","high","hack","galaxy","full","firefly","fantastic","extra","elegant","design","deep","puss","dream",
+    "cyber","custom","performance","cool","cold","another","app","auora","base","beautiful","pretty","pinky","better","good","well",
+    "lovely","box","2077","music","tune","snow","kde","gnome","breeze","Fluent-round","sunrise","story","layan","lightning",
+    "flight","dexy","sunset","jasper","amy","Marwaita","kimi","big-sur","orchis","vortex"
+  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/AaBbdev29/shades-of-midnight-blue-dark-theme"
