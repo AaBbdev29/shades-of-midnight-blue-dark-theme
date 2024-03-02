@@ -3,7 +3,7 @@
   "publisher": "moondevaa",
   "displayName": "shades of midnight blue dark theme",
   "description": "dark theme with attarctive colores ",
-  "version": "0.3.7",
+  "version": "0.3.8",
   "engines": {
     "vscode": "^1.78.0"
   },
@@ -23,7 +23,13 @@
     ,"indigo","hot","hope","high","hack","galaxy","full","firefly","fantastic","extra","elegant","design","deep","puss","dream",
     "cyber","custom","performance","cool","cold","another","app","auora","base","beautiful","pretty","pinky","better","good","well",
     "lovely","box","2077","music","tune","snow","kde","gnome","breeze","Fluent-round","sunrise","story","layan","lightning",
-    "flight","dexy","sunset","jasper","amy","Marwaita","kimi","big-sur","orchis","vortex","shades","shadow"
+    "flight","dexy","sunset","jasper","amy","Marwaita","kimi","big-sur","orchis","vortex","shades","shadow","one","pro","is","coming",
+    "juicy","tokyo","atom","darcula","sublime","eva","gruvbox","slak","bluloco","flatland","doki","windows","ariake",
+    "netbeans","hyper","term","code","solarized","snazzy","hop","low","contrast","xcode","nebula","field","ui","predawn","out","run","fusion",
+    "developer","programmer","tiny","pop","lock","ing","vim","august","tooth","delphi","cute","julia","black","board","horizan",
+    "ansi","launch","base","space","atlantic","classic","django","++","son","level","up","kay","laravel","nord","sharp","Dreamweaver",
+    "symfony","jetbrains","python","react","vue","morgan","Quantum","primier","mm","era","glass","arc","bit","anime","over",
+    "lucy","zone","fira","kali","search","song","xp","wild","life","cat"
   ],
   "repository": {
     "type": "git",
