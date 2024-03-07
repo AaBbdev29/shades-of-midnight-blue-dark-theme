@@ -24,7 +24,18 @@ fixed most bugs ..
   </div>
 
 ## Screenshots
-<h3>Codes are from AI</h3>
+<h4>Codes are from AI and thanks to opensource projects</h4>
+###########
+<div align="center">
+  <h2>Rust</h2>
+   <img src="https://github.com/AaBbdev29/shades-of-midnight-blue-dark-theme/blob/main/pic/rust.png?raw=true" alt="rust"/>
+</div>
+###########
+<div align="center">
+  <h2>JSON</h2>
+   <img src="https://github.com/AaBbdev29/shades-of-midnight-blue-dark-theme/blob/main/pic/json.png?raw=true" alt="json"/>
+</div>
+###########
 <div align="center">
   <h2>Python</h2>
    <img src="https://raw.githubusercontent.com/AaBbdev29/shades-of-midnight-blue-dark-theme/main/pym.png" alt="Py"/>
