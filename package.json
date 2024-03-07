@@ -3,7 +3,7 @@
   "publisher": "moondevaa",
   "displayName": "shades of midnight blue dark theme",
   "description": "dark theme with attarctive colores ",
-  "version": "0.4.0",
+  "version": "0.5.0",
   "engines": {
     "vscode": "^1.78.0"
   },
@@ -32,7 +32,8 @@
     "lucy","zone","fira","kali","search","song","xp","wild","life","cat","c++","c","c#","Live","docker","git","ai","language","debug"
     ,"java","icon","tag","go","beautify","dart","graph","xml","rest","rust","view","project","native","tools","todo","editor",
     "import","format","client","book","blade","babel","data","work","monokaie","sass","compile","profile","function","method",
-    "sql","hint","doc","image","node","snap","shell","cloud","support","case","time","browser","gpt","key","duck","outpot"
+    "sql","hint","doc","image","node","snap","shell","cloud","support","case","time","browser","gpt","key","duck","output",
+    "redfined","redefined","1","collection","hand","regular","Monokai","Zenith","unique","internet","update","new"
   ],
   "repository": {
     "type": "git",
