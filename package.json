@@ -3,7 +3,7 @@
   "publisher": "moondevaa",
   "displayName": "shades of midnight blue dark theme",
   "description": "dark theme with attarctive colores ",
-  "version": "0.5.1",
+  "version": "0.5.2",
   "engines": {
     "vscode": "^1.78.0"
   },
@@ -36,6 +36,10 @@
     "redfined","redefined","1","collection","hand","regular","Monokai","Zenith","unique","internet","update","new","learn","sumit","ded","free","camp","owl","eva","file","great","teacher","next","ever","miler","ball","zen","burn","karma",
 "tweak","fox","fire","familiar","min","max","natural","extra","x","bed","cobalt","matrix","just","touch","aramok","minor","mine","over",
 "monokai","old","young","hope","coder","soft","hard","eye","friendly","fun","full","office","edge","mirage","notepad","pride","Refined"
+,"trustworthy","intelligent","dependable","wise","reliable","frindly","happy","clean","intersting",
+"broad","well","reasonable","likable","clever","tactful","helpful","imaginative",
+"brilliant","orginal","smart","read","bright","efficint","resource","alert","witty","grateful",
+"flexibility","bold"
   ],
   "repository": {
     "type": "git",
